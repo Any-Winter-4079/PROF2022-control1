@@ -5,12 +5,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>miexamen</groupId>
-	<artifactId>miexamen</artifactId>
-	<version>miexamen</version>
+	<groupId>es.upm.grise.profundizacion.2021</groupId>
+	<artifactId>control-1</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 
-	<name>miexamen</name>
-	<description>miexamen</description>
+	<name>control-1</name>
+	<description>A test: control-1</description>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com!</url>
 
